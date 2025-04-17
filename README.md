@@ -8,7 +8,7 @@
 
 <h2> 📊 Data Projects </h2>
 
-- <b> Creating SQL Triggers </b>
+- [**Creating SQL Triggers**](https://github.com/AidenMontigny/creating-sql-triggers)
 
 <h2> 💻 Software & Coding Projects </h2>
 
