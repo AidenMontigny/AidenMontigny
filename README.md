@@ -2,10 +2,19 @@
 
   <a href="https://www.linkedin.com/in/AidenMontigny/">Cybersecurity Master Student</a>
 
-  <h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
 
+<h2> 📊 Data Projects </h2>
+
+- <b> Creating SQL Triggers </b>
+
+<h2> 💻 Software & Coding Projects </h2>
+
+- <b> Password Generator </b>
+
+ 
 <h2> 🤳 Connect with me:</h2>
 
 
