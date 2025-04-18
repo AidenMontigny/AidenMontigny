@@ -1,5 +1,6 @@
 <h1>Hi, I'm Aiden Montigny! 
- <a>Cybersecurity Master Student</a>
+
+<a> A Cybersecurity Master Student at GCU.</a>
 
 <h2> 🔐 Cybersecurity Projects </h2>
 
