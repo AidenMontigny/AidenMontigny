@@ -9,6 +9,7 @@
 <h2> 📊 Data Projects </h2>
 
 - [**Creating SQL Triggers**](https://github.com/AidenMontigny/creating-sql-triggers)
+- [**Creating a Basic NoSQL Database**](https://github.com/AidenMontigny/creating-a-basic-nosql-database)
 
 <h2> 💻 Software & Coding Projects </h2>
 
