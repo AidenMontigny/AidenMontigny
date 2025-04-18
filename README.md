@@ -6,8 +6,6 @@
 - [**Kioptrix 1 Exploit**](https://github.com/AidenMontigny/Kioptrix-1-Exploit)
 - [**Kioptrix 2 Exploit**](https://github.com/AidenMontigny/Kioptrix-2-Exploit)
 
-- <b>Data Structures and Algorithms Practice</b>
-
 <h2> 📊 Data Projects </h2>
 
 - [**Creating SQL Triggers**](https://github.com/AidenMontigny/creating-sql-triggers)
