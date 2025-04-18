@@ -1,6 +1,7 @@
 <h1>Hi, I'm Aiden Montigny! 
+ <a>Cybersecurity Master Student</a>
 
-  <a href="https://www.linkedin.com/in/AidenMontigny/">Cybersecurity Master Student</a>
+<h2> 🔐 Cybersecurity Projects </h2>
 
 - [**Kioptrix 1 Exploit**](https://github.com/AidenMontigny/Kioptrix-1-Exploit)
 - [**Kioptrix 2 Exploit**](https://github.com/AidenMontigny/Kioptrix-2-Exploit)
