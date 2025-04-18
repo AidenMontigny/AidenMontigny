@@ -12,8 +12,7 @@
 
 <h2> 💻 Software & Coding Projects </h2>
 
-- <b> Password Generator </b>
-
+- [**Password Generator**](https://github.com/AidenMontigny/Password-Generator)
  
 <h2> 🤳 Connect with me:</h2>
 
