@@ -19,7 +19,7 @@
 <h2> 🛠️ Administrative Projects </h2>
 
 - [**Active Directory Lab**](https://github.com/AidenMontigny/Active-Directory-Lab)  
-- [**Windows Server Backup and Maintenance**](https://github.com/AidenMontigny/Windows-Server-Maintenance)  
+- [**Windows Server Backup and Restoring**](https://github.com/AidenMontigny/Windows-Server-Backup-and-Restoring)  
 - [**Group Policy Configuration Project**](https://github.com/AidenMontigny/Group-Policy-Configuration)
  
 <h2> 🤳 Connect with me:</h2>
