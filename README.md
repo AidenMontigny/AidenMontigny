@@ -18,7 +18,7 @@
 
 <h2> 🛠️ Administrative Projects </h2>
 
-- [**Active Directory Lab**](https://github.com/AidenMontigny/Active-Directory-User-Lab)  
+- [**Active Directory Lab**](https://github.com/AidenMontigny/Active-Directory-Lab)  
 - [**Windows Server Backup and Maintenance**](https://github.com/AidenMontigny/Windows-Server-Maintenance)  
 - [**Group Policy Configuration Project**](https://github.com/AidenMontigny/Group-Policy-Configuration)
  
