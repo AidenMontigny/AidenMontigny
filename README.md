@@ -6,6 +6,8 @@
 
 - [**Kioptrix 1 Exploit**](https://github.com/AidenMontigny/Kioptrix-1-Exploit)
 - [**Kioptrix 2 Exploit**](https://github.com/AidenMontigny/Kioptrix-2-Exploit)
+- [**Kioptrix 3 Vulnerability Scanning**](https://github.com/AidenMontigny/Kioptrix-3-Vulnerability-Scanning)
+
 
 <h2> 📊 Data Projects </h2>
 
