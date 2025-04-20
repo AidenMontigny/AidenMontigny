@@ -11,7 +11,7 @@
 
 - [**Creating SQL Triggers**](https://github.com/AidenMontigny/creating-sql-triggers)
 - [**Creating a Basic NoSQL Database**](https://github.com/AidenMontigny/creating-a-basic-nosql-database)
-- [**Advanced Query Functions and Controlled Data Handling**](https://github.com/AidenMontignyAdvanced-Query-Functions-and-Controlled-Data-Handling)
+- [**Advanced Query Functions and Controlled Data Handling**](https://github.com/AidenMontigny/Advanced-Query-Functions-and-Controlled-Data-Handling)
 
 
 <h2> 💻 Software & Coding Projects </h2>
