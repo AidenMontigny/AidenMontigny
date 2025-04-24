@@ -26,13 +26,4 @@
 - [**Windows Server Backup and Restoring**](https://github.com/AidenMontigny/Windows-Server-Backup-and-Restoring)  
 - [**Operating System Administration Lab**](https://github.com/AidenMontigny/Operating-System-Administration-Lab)  
  
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="AidenMonntigny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AidenMontigny | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[instagram]: https://www.instagram.com/aidenmontigny/
-[linkedin]:www.linkedin.com/in/aiden-montigny-0275802b1
 
