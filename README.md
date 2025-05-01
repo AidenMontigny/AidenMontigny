@@ -23,8 +23,8 @@ If you have any questions or need clarification, please feel free to reach out a
 | 🛡️ [Kioptrix 2 Exploit](https://github.com/AidenMontigny/Kioptrix-2-Exploit) | Privilege escalation in Kioptrix VM 2 |
 | 🛡️ [Kioptrix 3 Vulnerability Scanning](https://github.com/AidenMontigny/Kioptrix-3-Vulnerability-Scanning) | Automated scanning and enumeration |
 | 🔐 [Hardening Lab](https://github.com/AidenMontigny/Hardening-Lab) | Implementing security policies for OS hardening |
-| 🔑 [Hashing Lab](https://github.com/AidenMontigny/Hashing-Lab) | Exploring hashing mechanisms for authentication |
 | 🔐 [Security Assessment Lab](https://github.com/AidenMontigny/Security-Assessment-Lab) | Network scanning and vulnerability assessment report |
+| 🔑 [Hashing Lab](https://github.com/AidenMontigny/Hashing-Lab) | Exploring hashing mechanisms for authentication |
 
 
 
