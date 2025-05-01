@@ -47,7 +47,7 @@ If you have any questions or need clarification, please feel free to reach out a
 
 | **Project Name** | **Description** |
 |----------------|----------------|
-| 🏆 [Password Generator](https://github.com/AidenMontigny/Password-Generator) | Secure password generation with customization |
+| 🏆 [Password Generator](https://github.com/AidenMontigny/Password-Generator) | Secure password generation with user customization |
 
 ---
 
