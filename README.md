@@ -18,6 +18,7 @@
 - [**Advanced Query Functions and Controlled Data Handling**](https://github.com/AidenMontigny/Advanced-Query-Functions-and-Controlled-Data-Handling)
 - [**XML Basics in SQL**](https://github.com/AidenMontigny/XML-Basics-in-SQL)
 - [**Sales Analysis and Forecasting**](https://github.com/AidenMontigny/Sales-Analysis-and-Forecasting)
+- [**Employee Data Segmentation and Analysis System**](https://github.com/AidenMontigny/Employee-Data-Segmentation-and-Analysis-System)
 
 
 <h2> 💻 Software & Coding Projects </h2>
