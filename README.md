@@ -8,6 +8,7 @@
 - [**Kioptrix 2 Exploit**](https://github.com/AidenMontigny/Kioptrix-2-Exploit)
 - [**Kioptrix 3 Vulnerability Scanning**](https://github.com/AidenMontigny/Kioptrix-3-Vulnerability-Scanning)
 - [**Hardening Lab**](https://github.com/AidenMontigny/Hardening-Lab)
+- [**Hashing Lab**](https://github.com/AidenMontigny/Hashing-Lab)
 
 
 <h2> 📊 Data Projects </h2>
