@@ -1,6 +1,14 @@
 # 👋 **Hi, I'm Aiden Montigny!**  
 ## 🎓 **A Cybersecurity Master's Student at GCU**  
 
+---
+
+🚨 **NOTE:** 🚨  
+I am currently **adding 30+ projects** to this repository!  
+If you have any questions or need clarification, please feel free to reach out at **aiden.m.montigny@gmail.com**
+
+
+
 🔍 Passionate about **Cybersecurity, Data Analytics, and IT Administration**  
 🚀 **Leveraging automation & scripting to enhance security operations**  
 📌 **Exploring penetration testing, system hardening, and forensic analysis**  
