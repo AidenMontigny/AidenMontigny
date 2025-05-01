@@ -24,7 +24,7 @@ If you have any questions or need clarification, please feel free to reach out a
 | 🛡️ [Kioptrix 3 Vulnerability Scanning](https://github.com/AidenMontigny/Kioptrix-3-Vulnerability-Scanning) | Automated scanning and enumeration |
 | 🔐 [Hardening Lab](https://github.com/AidenMontigny/Hardening-Lab) | Implementing security policies for OS hardening |
 | 🔐 [Security Assessment Lab](https://github.com/AidenMontigny/Security-Assessment-Lab) | Network scanning and vulnerability assessment report |
-| 🔐 [Intrusion Protection System Lab](https://github.com/AidenMontigny/Intrusion-Protection-System-Lab) | Network scanning and vulnerability assessment report |
+| 🔐 [Intrusion Protection System Lab](https://github.com/AidenMontigny/Intrusion-Protection-System-Lab) |Configuring and monitoring Snort IPS |
 | 🔑 [Hashing Lab](https://github.com/AidenMontigny/Hashing-Lab) | Exploring hashing mechanisms for authentication |
 
 
