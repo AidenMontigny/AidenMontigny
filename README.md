@@ -32,7 +32,7 @@
 - [**Operating System Administration Lab**](https://github.com/AidenMontigny/Operating-System-Administration-Lab)
 - [**User and Group Management**](https://github.com/AidenMontigny/User-and-Group-Management)
 - [**Access Control Firewall Assessment Lab**](https://github.com/AidenMontigny/Access-Control-Firewall-Assessment-Lab)
-
+- [**Access Control via Active Directory Lab**](https://github.com/AidenMontigny/Access-Control-via-Active-Directory-Lab)
 
  
 
