@@ -26,8 +26,7 @@ If you have any questions or need clarification, please feel free to reach out a
 | 🔐 [Security Assessment Lab](https://github.com/AidenMontigny/Security-Assessment-Lab) | Network scanning and vulnerability assessment report |
 | 🔐 [Intrusion Protection System Lab](https://github.com/AidenMontigny/Intrusion-Protection-System-Lab) |Configuring and monitoring Snort IPS |
 | 🔑 [Hashing Lab](https://github.com/AidenMontigny/Hashing-Lab) | Exploring hashing mechanisms for authentication |
-
-
+| 🔍 [Basic Wireshark Lab](https://github.com/AidenMontigny/Basic-Wireshark-Lab) | Analyzing network traffic and identifying protocols and potential threats |
 
 ---
 
