@@ -4,7 +4,7 @@
 ---
 
 🚨 **NOTE:** 🚨  
-I am currently **adding 30+ projects** to this repository!  
+I am currently **adding 20+ projects** to this repository!  
 If you have any questions or need clarification, please feel free to reach out at **aiden.m.montigny@gmail.com**
 
 
